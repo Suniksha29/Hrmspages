@@ -23,7 +23,7 @@ const Footer = () => {
             placeholder="enter your email..." 
             className="p-2 text-xs rounded border border-gray-600 bg-gray-700 text-white placeholder-gray-400 focus:outline-none w-2/3 md:w-auto"
           />
-          <button className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 text-xs rounded transition duration-300">
+          <button className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 text-xs rounded transition duration-300">subscribe</button>
         </div>
 
         {/* Icons/Settings */}
