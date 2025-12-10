@@ -54,7 +54,7 @@ const Speakers = () => {
             </div>
             <button 
               type="submit" 
-              className="w-full bg-red-600 hover:bg-blue-700 text-white font-bold py-2 rounded transition duration-300"
+              className="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2  rounded transition duration-300"
             >
               Register Now
             </button>
