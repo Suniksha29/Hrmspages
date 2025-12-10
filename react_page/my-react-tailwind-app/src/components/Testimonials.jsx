@@ -3,7 +3,7 @@
 import React from 'react';
 
 const TestimonialCard = ({ quote }) => (
-  <div className="bg-gray-200 p-4 text-xs italic text-gray-900 rounded-lg shadow-inner flex items-center justify-center h-28 w-full">
+  <div className="bg-blue-600 p-4 text-xs italic text-white rounded-lg shadow-inner flex items-center justify-center h-28 w-full">
     {quote}
   </div>
 );
