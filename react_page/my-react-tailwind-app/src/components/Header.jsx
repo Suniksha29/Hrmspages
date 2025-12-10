@@ -16,7 +16,7 @@ const Header = () => {
           <h1 className="text-xl font-bold">Human Resource Management System</h1>
         </div>
         <p className="text-sm mb-4">December 15, Mumbai</p>
-        <button className="bg-yellow-500 hover:bg-yellow-600 text-blue-900 font-bold py-2 px-8 rounded-full shadow-lg transition duration-300">
+       <button className="bg-white hover:bg-gray-100 text-black font-bold py-2 px-8 rounded-full shadow-lg transition duration-300">
           Save Your Spot
         </button>
       </div>
